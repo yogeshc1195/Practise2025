@@ -33,7 +33,7 @@ public class WebShop {
 	public void openBrowser()
 	{
 		
-		System.out.println("Opening Browser In Processsss");
+		System.out.println("Opening Browser In Processssss");
 		System.setProperty("webdriver.chrome.driver","D:\\TESTING REQUIRED APPS JARS\\Chrome 131\\chromedriver.exe");
 		driver=new ChromeDriver();
 		
