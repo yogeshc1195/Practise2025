@@ -30,10 +30,10 @@ public class WebShop {
 	WebDriver driver;
 	
 	@BeforeSuite
-	public void openBrowser()
+	public void openBrowser() 
 	{
 		
-		System.out.println("Opening Browser In Processssss");
+		System.out.println("Opening Browser In Processsssss");
 		System.setProperty("webdriver.chrome.driver","D:\\TESTING REQUIRED APPS JARS\\Chrome 131\\chromedriver.exe");
 		driver=new ChromeDriver();
 		
