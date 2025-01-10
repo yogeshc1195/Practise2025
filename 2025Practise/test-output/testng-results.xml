@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17545" started-at="2025-01-10T06:37:55Z" finished-at="2025-01-10T06:38:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17545" started-at="2025-01-10T06:37:55Z" finished-at="2025-01-10T06:38:13Z">
+      <class name="Com.TCS.WebShop">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Com.TCS.WebShop@1ffe63b9]" name="openBrowser" is-config="true" duration-ms="2485" started-at="2025-01-10T06:37:53Z" finished-at="2025-01-10T06:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="URL()[pri:0, instance:Com.TCS.WebShop@1ffe63b9]" name="URL" is-config="true" duration-ms="10727" started-at="2025-01-10T06:37:55Z" finished-at="2025-01-10T06:38:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method status="PASS" signature="Maximize()[pri:0, instance:Com.TCS.WebShop@1ffe63b9]" name="Maximize" is-config="true" duration-ms="71" started-at="2025-01-10T06:38:06Z" finished-at="2025-01-10T06:38:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Maximize -->
+        <test-method status="PASS" signature="beforeSS()[pri:0, instance:Com.TCS.WebShop@1ffe63b9]" name="beforeSS" is-config="true" duration-ms="384" started-at="2025-01-10T06:38:06Z" finished-at="2025-01-10T06:38:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSS -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:Com.TCS.WebShop@1ffe63b9]" name="logIn" duration-ms="3166" started-at="2025-01-10T06:38:06Z" finished-at="2025-01-10T06:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="loginSuccess()[pri:0, instance:Com.TCS.WebShop@1ffe63b9]" name="loginSuccess" is-config="true" duration-ms="104" started-at="2025-01-10T06:38:10Z" finished-at="2025-01-10T06:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccess -->
+        <test-method status="PASS" signature="screenshot()[pri:0, instance:Com.TCS.WebShop@1ffe63b9]" name="screenshot" is-config="true" duration-ms="3052" started-at="2025-01-10T06:38:10Z" finished-at="2025-01-10T06:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="done()[pri:0, instance:Com.TCS.WebShop@1ffe63b9]" name="done" is-config="true" duration-ms="0" started-at="2025-01-10T06:38:13Z" finished-at="2025-01-10T06:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- done -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Com.TCS.WebShop@1ffe63b9]" name="close" is-config="true" duration-ms="816" started-at="2025-01-10T06:38:13Z" finished-at="2025-01-10T06:38:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Com.TCS.WebShop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
